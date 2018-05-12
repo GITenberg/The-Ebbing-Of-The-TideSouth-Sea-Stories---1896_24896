@@ -1,0 +1,37 @@
+_repo: The-Ebbing-Of-The-TideSouth-Sea-Stories---1896_24896
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Becke, Louis
+    alias: Becke, George Louis
+    birthdate: 1855
+    deathdate: 1913
+    gutenberg_agent_id: '1317'
+    url: http://www.gutenberg.org/2009/agents/1317
+    wikipedia: http://en.wikipedia.org/wiki/George_Lewis_Becke
+description: ''
+gutenberg_issued: '2008-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Oceania -- Fiction'
+- !lcc 'PR'
+tableOfContents: '"Luliban of the pool" -- Ninia -- Baldwin''s Loisé -- At a kafa-drinking
+  -- Mrs. Liardet: a South Sea trading episode -- Kennedy the boatsteerer -- A dead
+  loss -- Hickson: a half-caste -- A boating party of two -- "The best asset in a
+  fool''s estate" -- Deschard of Oneaka -- Nell of Mulliner''s camp -- Auriki Reef
+  -- At the ebbing of the tide -- The fallacies of Hilliard -- A tale of a mask --
+  The cook of the "Spreetoo Santoo" -- Lupton''s guest: a memory of the eastern Pacific
+  -- In Nouméa -- The feast at Pentecost -- An honour to the service.'
+title: 'The Ebbing Of The Tide
+
+  South Sea Stories - 1896'
+url: http://www.gutenberg.org/ebooks/24896
